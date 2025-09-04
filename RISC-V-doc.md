@@ -36,6 +36,9 @@
 * Lichee Pi 4A
 * BeagleV AHead
 
+### StarFive JH7110
+
+Milk-V Mars 
 
 
 ###  UR-CP100
