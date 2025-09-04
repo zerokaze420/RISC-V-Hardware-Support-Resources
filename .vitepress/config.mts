@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "RISC-V 文档上已有的设备文档补充",
-  description: "A VitePress Site",
+  title: "Debian RISC-V 文档上已有的设备文档补充",
+  description: "设备补充和验证",
   base: '/RISC-V-Hardware-Support-Resources/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
