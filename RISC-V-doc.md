@@ -47,12 +47,13 @@
 
 ### StarFive JH7110
 
-Milk-V Mars 
+* Milk-V Mars StarFive VisionFive board
+* StarFive VisionFive board 
 
 
 ###  UR-CP100
 
-Milk-V Titan
+* Milk-V Titan
 
 
 ### SG2042 
