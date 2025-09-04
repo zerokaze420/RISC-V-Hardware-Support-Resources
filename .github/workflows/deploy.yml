@@ -32,11 +32,10 @@ jobs:
           fetch-depth: 0 # 如果未启用 lastUpdated，则不需要
 
       # --- 关键改动在这里 ---
-      # 取消下面这部分的注释，来为工作流安装 pnpm
+      # 移除了 'with' 和 'version' 字段.
+      # Action 会自动从你的 package.json 文件中读取 pnpm 版本.
       - name: Setup pnpm
         uses: pnpm/action-setup@v4
-        with:
-          version: 9 # 你可以指定 pnpm 的版本
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -70,3 +69,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
