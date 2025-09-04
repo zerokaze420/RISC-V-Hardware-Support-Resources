@@ -24,6 +24,8 @@
 
 ## 补充的设备
 
+> 按照SOC分类
+
 ### ky x1 8 core risc-v ai
 
 *  Orange-Pi RV
