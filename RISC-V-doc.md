@@ -34,6 +34,17 @@
 * BeagleV AHead
 
 
+
+###  UR-CP100
+
+Milk-V Titan
+
+
+### SG2042 
+
+* Milk-V Pioneer
+
+
 ### SG2000
 
 * Duo S
