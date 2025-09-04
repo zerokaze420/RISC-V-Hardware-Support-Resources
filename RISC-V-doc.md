@@ -21,6 +21,14 @@
 
 ## 补充的设备
 
-### Orange-Pi
+### ky x1 8 core risc-v ai
 
+*  Orange-Pi RV
 *  Orange-Pi-RV2
+
+
+
+### TH1520
+
+* Lichee Pi 4A
+* BeagleV AHead
