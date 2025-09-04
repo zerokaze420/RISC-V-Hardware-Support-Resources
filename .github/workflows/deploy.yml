@@ -30,20 +30,29 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0 # 如果未启用 lastUpdated，则不需要
-      # - uses: pnpm/action-setup@v2 # 如果 GITHUB ACTIONS runner 未预安装 pnpm，请取消注释
-      #   with:
-      #     version: 8 # 指定 pnpm 版本
+
+      # --- 关键改动在这里 ---
+      # 取消下面这部分的注释，来为工作流安装 pnpm
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9 # 你可以指定 pnpm 的版本
+
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: 18
           cache: pnpm # 使用 pnpm 缓存
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
+
       - name: Install dependencies
         run: pnpm install
+
       - name: Build with VitePress
         run: pnpm docs:build # 运行 package.json 中的构建命令
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
