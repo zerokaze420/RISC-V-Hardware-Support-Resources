@@ -8,7 +8,7 @@ hero:
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: 补充的设备
+      text: 开始
       link: /RISC-V-doc
     - theme: alt
       text: API Examples
