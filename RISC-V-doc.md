@@ -7,10 +7,8 @@
 
 ## 官方 RISC-V 文档上已有的设备
 
-### JH7110 SoC
+
 * StarFive VisionFive 2 board with 
-
-
 * Sipeed Lichee Pi4 board
 * BeagleV-Ahead, T-Head TH1520 SoC, 4 C910 cores
 * Lichee RV
