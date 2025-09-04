@@ -4,12 +4,12 @@ layout: home
 
 hero:
   name: "RISC-V 文档上已有的设备文档补充"
-  text: "A VitePress Site"
+  text: "debian.org RISC-V#Hardware的补充"
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 补充的设备
+      link: /RISC-V-doc
     - theme: alt
       text: API Examples
       link: /api-examples
