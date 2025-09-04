@@ -20,7 +20,9 @@
 
 ## 补充的设备
 
-* 
+### Orange-Pi
+
+*  Orange-Pi-RV2
 
 
 
