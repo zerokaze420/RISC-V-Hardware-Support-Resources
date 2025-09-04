@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
+  name: "RISC-V 文档上已有的设备文档补充"
   text: "A VitePress Site"
   tagline: My great project tagline
   actions:

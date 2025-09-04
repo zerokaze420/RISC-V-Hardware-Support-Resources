@@ -1,3 +1,7 @@
+---
+outline: deep
+---
+
 # RISC-V-Hardware-Support-Resources
 
 对 [debian.org RISC-V#Hardware](https://wiki.debian.org/RISC-V#Hardware) 的补充
