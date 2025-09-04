@@ -26,6 +26,13 @@
 
 > 按照SOC分类
 
+
+### D1
+
+* Mango Pi MQ Pro
+* Nezha
+
+
 ### ky x1 8 core risc-v ai
 
 *  Orange-Pi RV
