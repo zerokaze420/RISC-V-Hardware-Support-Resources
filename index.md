@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "RISC-V 文档上已有的设备文档补充"
   text: "debian.org RISC-V#Hardware的补充"
-  tagline: My great project tagline
+  tagline: 所有RISC-V设备
   actions:
     - theme: brand
       text: 开始
