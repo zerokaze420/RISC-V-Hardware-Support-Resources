@@ -32,3 +32,17 @@
 
 * Lichee Pi 4A
 * BeagleV AHead
+
+
+### SG2000
+
+* Duo S
+* Duo Module 01
+
+### SG2002
+
+* Duo256M
+
+### CV1800B
+
+* Duo
