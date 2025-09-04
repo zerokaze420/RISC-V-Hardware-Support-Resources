@@ -14,7 +14,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: '设备补充',
+        text: '设备',
         items: [
           { text: '设备补充', link: '/RISC-V-doc' },
           { text: 'Runtime API Examples', link: '/api-examples' }
