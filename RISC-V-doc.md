@@ -1,6 +1,3 @@
----
-outline: deep
----
 
 # RISC-V-Hardware-Support-Resources
 
