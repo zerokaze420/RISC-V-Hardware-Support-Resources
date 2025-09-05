@@ -25,9 +25,8 @@
 * Nezha
 
 
-### ky x1 8 core risc-v ai
+### ky x1
 
-*  Orange-Pi RV *
 *  Orange-Pi-RV2 *
 
 
@@ -40,7 +39,9 @@
 ### StarFive JH7110
 
 * Milk-V Mars StarFive VisionFive board *
+*  Orange-Pi-RV
 * StarFive VisionFive board 
+
 
 
 ###  UR-CP100
