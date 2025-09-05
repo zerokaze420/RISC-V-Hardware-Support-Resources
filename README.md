@@ -1,7 +1,7 @@
 
 # RISC-V-Hardware-Support-Resources
 
-对 [debian.org RISC-V#Hardware](https://wiki.debian.org/RISC-V#Hardware) 的补充 , 根据官方的 wiki, 只收录了的 `RAM > 512MB` 的设备
+对 [debian.org RISC-V#Hardware](https://wiki.debian.org/RISC-V#Hardware) 的补充 , 根据[官方的 wiki](https://www.debian.org/releases/stable/riscv64/ch03s04.zh-cn.html), 只收录了的 `RAM > 512MB` 的设备
 
 
 
