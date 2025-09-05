@@ -65,6 +65,15 @@
 * Duo Module 01
 
 
+### U18
+
+* 昉·星光
+
+
+### SpacemiT® K1
+
+* Bit-Brick K1
+
 
 ---
 
