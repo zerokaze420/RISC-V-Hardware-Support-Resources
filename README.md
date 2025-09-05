@@ -1,3 +1,4 @@
+
 # RISC-V-Hardware-Support-Resources
 
 对 [debian.org RISC-V#Hardware](https://wiki.debian.org/RISC-V#Hardware) 的补充
@@ -6,7 +7,8 @@
 
 ## 官方 RISC-V 文档上已有的设备
 
-* StarFive VisionFive 2 board with JH7110 SoC
+
+* StarFive VisionFive 2 board with 
 * Sipeed Lichee Pi4 board
 * BeagleV-Ahead, T-Head TH1520 SoC, 4 C910 cores
 * Lichee RV
@@ -20,10 +22,52 @@
 
 ## 补充的设备
 
-### Orange-Pi
+> 按照SOC分类
 
+
+### D1
+
+* Mango Pi MQ Pro
+* Nezha
+
+
+### ky x1 8 core risc-v ai
+
+*  Orange-Pi RV
 *  Orange-Pi-RV2
 
 
 
+### TH1520
 
+* Lichee Pi 4A
+* BeagleV AHead
+
+### StarFive JH7110
+
+* Milk-V Mars StarFive VisionFive board
+* StarFive VisionFive board 
+
+
+###  UR-CP100
+
+* Milk-V Titan
+
+
+### SG2042 
+
+* Milk-V Pioneer
+
+
+### SG2000
+
+* Duo S
+* Duo Module 01
+
+### SG2002
+
+* Duo256M
+
+### CV1800B
+
+* Duo
