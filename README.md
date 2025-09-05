@@ -71,3 +71,8 @@
 ### CV1800B
 
 * Duo
+
+
+## todo list 
+
+1. 对 Orange-Pi-RV2  进行测试
