@@ -1,7 +1,7 @@
 
 # RISC-V-Hardware-Support-Resources
 
-对 [debian.org RISC-V#Hardware](https://wiki.debian.org/RISC-V#Hardware) 的补充
+对 [debian.org RISC-V#Hardware](https://wiki.debian.org/RISC-V#Hardware) 的补充 , 根据[官方的 wiki](https://www.debian.org/releases/stable/riscv64/ch03s04.zh-cn.html), 只收录了的 `RAM > 512MB` 的设备
 
 
 
@@ -63,6 +63,23 @@
 
 * Duo S
 * Duo Module 01
+* 鲁板猫P1
+
+
+### U18
+
+* 昉·星光
+
+
+### SpacemiT® K1
+
+* Bit-Brick K1
+
+
+---
+
+
+## 低于512MB的设备
 
 ### SG2002
 
@@ -71,3 +88,8 @@
 ### CV1800B
 
 * Duo
+
+
+## todo list 
+
+1. 对 Orange-Pi-RV2  进行测试
