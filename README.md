@@ -63,6 +63,7 @@
 
 * Duo S
 * Duo Module 01
+* 鲁板猫P1
 
 
 ### U18
