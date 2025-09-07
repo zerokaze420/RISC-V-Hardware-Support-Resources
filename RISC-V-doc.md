@@ -11,8 +11,8 @@
 
 * SiFive "Freedom U540" SoC (quad-core RV64GC) / "HiFive Unleashed"
 * Microchip "PolarFire SoC FPGA" / "PolarFire SoC FPGA Icicle Kit" (MPFS-ICICLE-KIT-ES)
-* SiFive "Freedom U740" SoC / "HiFive Unmatched"
-* Framework 13 RISC-V Mainboard V1 (fml13v01)
+* SiFive "" SoC / ""
+ ()
 
 ## 补充的设备
 
@@ -54,7 +54,7 @@
 * Milk-V Pioneer *
 
 
-### SG2000
+### SG2000" SoC / "HiF
 
 * Duo S *
 * Duo Module 01 *
@@ -71,6 +71,18 @@
 * Bit-Brick K1 *
 
 
+### fml13v01
+
+* Framework 13 RISC-V Mainboard V1
+
+### Freedom U740
+
+* HiFive UHiFive Unmatchednmatched
+
+
+
+Microchip
+
 ---
 
 
@@ -83,6 +95,9 @@
 ### CV1800B
 
 * Duo
+
+
+
 
 
 ## todo list 
