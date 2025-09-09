@@ -11,8 +11,7 @@
 
 * SiFive "Freedom U540" SoC (quad-core RV64GC) / "HiFive Unleashed"
 * Microchip "PolarFire SoC FPGA" / "PolarFire SoC FPGA Icicle Kit" (MPFS-ICICLE-KIT-ES)
-* SiFive "" SoC / ""
- ()
+
 
 ## 补充的设备
 
